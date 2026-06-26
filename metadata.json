@@ -1,0 +1,6 @@
+{
+  "name": "Кубок Енисея — Цифровой Штурман",
+  "description": "Интерактивный цифровой штурман для планирования маршрута аэролодки Raptor 650 на Красноярском водохранилище от Дивногорска до залива Бирюса.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
